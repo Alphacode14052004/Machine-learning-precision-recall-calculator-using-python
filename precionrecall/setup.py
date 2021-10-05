@@ -24,13 +24,6 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
-    ],
-    packages=["square"],
-    include_package_data=True,
-    install_requires=[],
-    entry_points={
-        "console_scripts": [
-            "precision.__main__:main",
-        ]
-    },
+    ]
+   
 )
