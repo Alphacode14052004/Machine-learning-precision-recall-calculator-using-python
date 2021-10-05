@@ -1,0 +1,4 @@
+# mypy
+.mypy_cache
+##my files
+pyvenv.cfg
